@@ -91,4 +91,4 @@ footer { padding: 24px 4.5vw; display: flex; justify-content: space-between; bor
 .about-story .about-copy:last-child { margin-bottom: 0; }
 
 /* Keep the introductory greeting on two deliberate lines. */
-.hero-line { display: block; }
+.hero-line { display: inline-block; white-space: nowrap; }
